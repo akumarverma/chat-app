@@ -18,7 +18,7 @@ const getLocation = (username,location)=>{
         createdAt: new Date().getTime()
     }
 }
-console.log(getMessage('Amit','test'))
+//console.log(getMessage('Amit','test'))
 
 module.exports = {
     getMessage,
